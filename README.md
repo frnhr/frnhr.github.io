@@ -1,1 +1,1 @@
-# frnhr.github.io
+ * [Hidden MCP](pages/hidden-mcp)
