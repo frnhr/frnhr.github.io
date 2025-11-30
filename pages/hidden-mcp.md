@@ -239,7 +239,7 @@ Remove it from `.mcp.json` in your project file and / or the main `~/.claude/set
 
 ## What else?
 
-This whole thing is essentially a workaround until this issue is implemented: https://github.com/anthropics/claude-code/issues/12633 
+This whole thing is essentially a workaround until this issue is implemented: [anthropics/claude-code#12633](https://github.com/anthropics/claude-code/issues/12633)
 Please upvote the issue.
 
 ## Why use a skill at all?
