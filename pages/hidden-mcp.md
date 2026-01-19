@@ -228,7 +228,7 @@ Remove it from `.mcp.json` in your project file and / or the main `~/.claude/set
 
 ## What else?
 
-This whole thing is essentially a workaround until this issue is implemented: [anthropics/claude-code#12633](https://github.com/anthropics/claude-code/issues/12633)
+This whole thing is essentially a workaround until this issue is implemented: [anthropics/claude-code#6915](https://github.com/anthropics/claude-code/issues/6915)
 Please upvote the issue.
 
 ## Why use a skill at all?
