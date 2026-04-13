@@ -26,7 +26,7 @@ Well, yes, and no. The CLI that comes with the Obisidian app needs the Obsidian 
 
 ## So, it just works!
 
-BUAAHAHAAAHA HAA HAA HAA :D :) :| :'( :'O
+BUAAHAHAAAHA HAA HAA HAA :D :) :\| :'( :'O
 
 ## Ok can you cut the crap and get to it already?
 
