@@ -10,6 +10,8 @@ Usage:
  * `runnn mydevserver`
 
 ```bash
+#!/usr/bin/env bash
+set -m  # enable job control so backgrounded child gets its own process group
 runnn() {
   # Usage: runnn <cmd> [args...]
   #
@@ -107,4 +109,6 @@ runnn() {
     return "$rc"
   done
 }
+
+runnn "$@"
 ```
