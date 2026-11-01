@@ -21,8 +21,8 @@ Small CSS hack to make project names stand out in the Claude Desktop Code sideba
 
 > (What's Wrong With)
 
-The Code tab sidebar groups sessions by project (if you turn that option on). Which is nice and useful. Except that when I look at it, I can never find anything for liek 1.67 seconds. My eyes land on individual session title,
-and without the project they belong the titles temselved are usually not that useful. So the first thing I'm looking for is almost always the project name. And just being flooded with session titles.
+The Code tab sidebar groups sessions by project (if you turn that option on). Which is nice and useful. Except that when I look at it, I can never find anything for like 1.67 seconds. My eyes land on individual session titles,
+and without the project they belong to, the titles themselves are usually not that useful. So the first thing I'm looking for is almost always the project name. And just being flooded with session titles.
 
 No wonder: project names are 12px and grey (~50% white), the session titles under them are 14px and bright (~90% white). Who designed this?!
 
@@ -78,7 +78,7 @@ After each launch: click into the sidebar, `⌘⌥I`, `⌘P`, type `!sidebar`, E
 
 ## The snippet
 
-Claude-generated, and the I tuned it by eye. My extensive human-powered taste and judgement forged in 15+ years of building web apps of all sorts and sizes, made a critical contribution: `13px` -> `12px` for the session titles.
+Claude-generated, and then I tuned it by eye. My extensive human-powered taste and judgement forged in 15+ years of building web apps of all sorts and sizes, made a critical contribution: `13px` -> `12px` for the session titles.
 
 ```js
 // Claude Code sidebar: make project group headers stand out from the sessions under them.
