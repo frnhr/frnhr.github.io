@@ -64,7 +64,7 @@ That's fine, though. DevTools has saved snippets, and they survive app restarts.
 
 5 seconds per app launch. I can live with that. For now. Until I decide some AppleScript is dearly needed.
 
-## LP;DR?
+## TL;DR?
 
 1. Enable Developer Mode: in the macOS menu bar (not the in-app Settings), **Help > Troubleshooting > Enable Developer Mode...**. Confirm, restart the app.
 2. Click into the sidebar, press `⌘⌥I`. DevTools opens.
